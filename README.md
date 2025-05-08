@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+bunx create-next-app --example https://github.com/rahulk41/bun-nextjs-template.git template
+
 npm run dev
 # or
 yarn dev
